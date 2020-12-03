@@ -1,7 +1,10 @@
 # Multi-label Text Classification
 
-## bbc.ipynb - model
+## GloVe.ipynb
 GloVe embedding, LSTM
+
+## BERT.ipynb
+transformers with BERT
 
 ## merge_data.ipynb
 spojuje a upravuje nastahovaná data crawlerem. Výstupem je data.json
